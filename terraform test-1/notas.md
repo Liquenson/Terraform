@@ -9,3 +9,6 @@
 9. tf destoy -auto-approve
 
 https://registry.terraform.io/browse/providers
+https://developer.hashicorp.com/hcp/docs
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code
+https://github.com/Liquenson
