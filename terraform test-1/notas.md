@@ -2,7 +2,7 @@
 2. creacion usuario aws
 3. set alias / alias tf="terraform"
 4. provider
-5. comandos init, fmt, plan, apply, destroy
+5. comandos init, fmt, plan, apply, show, destroy
 6. terraform apply -auto-approve
 7. tf apply -auto-approve
 8. terraform destroy -auto-approve
