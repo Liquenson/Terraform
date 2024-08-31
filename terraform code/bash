@@ -1,0 +1,8 @@
+#!/bin/bash
+# Actualizar paquetes y instalar Apache
+apt-get update -y
+apt-get install apache2 -y
+
+# Iniciar Apache
+systemctl start apache2
+systemctl enable apache2
